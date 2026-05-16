@@ -96,7 +96,8 @@ Database Integration
 Analytics Dashboard
 📸 Project Preview
 
-(Add screenshots of your project here)
+<img width="762" height="833" alt="image" src="https://github.com/user-attachments/assets/9b67ddde-6072-4ae3-97a1-bd68a5b5b9f9" />
+
 
 👨‍💻 Author
 
