@@ -18,7 +18,7 @@ def predict():
 
     # Get values from form
     features = [
-        float(request.form['id']),
+        
         float(request.form['fixed_acidity']),
         float(request.form['volatile_acidity']),
         float(request.form['citric_acid']),
@@ -29,7 +29,8 @@ def predict():
         float(request.form['density']),
         float(request.form['ph']),
         float(request.form['sulphates']),
-        float(request.form['alcohol'])
+        float(request.form['alcohol']),
+        float(request.form['id'])
     ]
 
     # Convert to numpy array
