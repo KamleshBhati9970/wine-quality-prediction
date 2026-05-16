@@ -65,7 +65,7 @@ wine-quality-app/
 
 ⚙️ Installation & Setup
 Clone Repository
-git clone https://github.com/YOUR_USERNAME/wine-quality-prediction.git
+git clone https://github.com/kamleshbhati9970/wine-quality-prediction.git
 Move into Project Folder
 cd wine-quality-prediction
 Install Dependencies
