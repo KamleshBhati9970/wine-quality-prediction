@@ -59,3 +59,44 @@ wine-quality-app/
 │
 └── static/
     └── style.css
+
+⚙️ Installation & Setup
+Clone Repository
+git clone https://github.com/YOUR_USERNAME/wine-quality-prediction.git
+Move into Project Folder
+cd wine-quality-prediction
+Install Dependencies
+pip install -r requirements.txt
+Run Flask App
+python app.py
+
+Open browser:
+
+http://127.0.0.1:5000
+🎯 Sample Prediction
+Feature	Value
+Fixed Acidity	7.4
+Volatile Acidity	0.70
+Citric Acid	0.00
+Residual Sugar	1.9
+Alcohol	9.4
+
+Prediction:
+
+Good Wine
+🔥 Future Improvements
+Better UI/UX
+Cloud Deployment
+Model Performance Visualization
+User Authentication
+Database Integration
+Analytics Dashboard
+📸 Project Preview
+
+(Add screenshots of your project here)
+
+👨‍💻 Author
+
+Kamlesh Bhati
+
+⭐ If you like this project, give it a star on GitHub!
