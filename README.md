@@ -60,6 +60,9 @@ wine-quality-app/
 └── static/
     └── style.css
 
+...
+```
+
 ⚙️ Installation & Setup
 Clone Repository
 git clone https://github.com/YOUR_USERNAME/wine-quality-prediction.git
